@@ -51,10 +51,10 @@ Agradecemos a los siguientes colaboradores por su invaluable participación en e
 
 ## Información de Acceso 🔐
 
-Despliegue Front-End: https://front-pf-vets-for-pets-main.vercel.app/
-Despliegue Back-End: https://vetsforpets-api.onrender.com/#/
-Repositorio Back-End: https://github.com/vetsforpets/Back-PF-VetsForPets
-Repositorio Front-End: https://github.com/vetsforpets/Front-PF-VetsForPets
+- Despliegue Front-End: https://front-pf-vets-for-pets-main.vercel.app/
+- Despliegue Back-End: https://vetsforpets-api.onrender.com/#/
+- Repositorio Back-End: https://github.com/vetsforpets/Back-PF-VetsForPets
+- Repositorio Front-End: https://github.com/vetsforpets/Front-PF-VetsForPets
 
 ## Usuarios de Prueba 👤
 
